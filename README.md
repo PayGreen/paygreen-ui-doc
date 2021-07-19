@@ -1,6 +1,10 @@
-# Website
+# Doc PG UI
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+Official documentation of our UI components' library, [PayGreen-UI](https://github.com/PayGreen/paygreen-ui).
+
+> [Read it live](https://paygreen.github.io/paygreen-ui-doc)
+
+This doc is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
 ## Installation
 
@@ -8,7 +12,7 @@ This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern 
 yarn install
 ```
 
-## Local Development
+## Local development
 
 ```console
 yarn start
@@ -207,7 +211,7 @@ Quote break.
 
 ---
 
-### Line Breaks
+### Line breaks
 
 Here's a line for us to start with.
 

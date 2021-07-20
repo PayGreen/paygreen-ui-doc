@@ -2,12 +2,12 @@ module.exports = {
     title: 'PayGreen UI',
     tagline: 'La librairie de composants UI officielle de PayGreen pour React 🎨',
     url: 'https://paygreen.github.io/paygreen-ui-doc',
-    baseUrl: '/',
+    baseUrl: '/paygreen-ui-doc',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'PayGreen',
-    projectName: 'paygreen-ui',
+    projectName: 'paygreen-ui-doc',
     themeConfig: {
         navbar: {
             title: 'PayGreen UI',
